@@ -1,7 +1,7 @@
 # AI Collaboration Reflection
 
-**Student Name:** [Your name here]
-**Date Completed:** [YYYY-MM-DD]
+**Student Name:** [Sahar Naz]
+**Date Completed:** [2025-09-12]
 
 ## What worked well with AI
 
