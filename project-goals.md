@@ -2,7 +2,7 @@
 
 ## Overview
 - **Project Type:** an aesthetic site for my selected poem 
-- **Target Audience:** poetry lovers and literary 
+- **Target Audience:** poetry lovers and literary audiences who appreciate meaningful works
 - **Timeline:** TBD
 
 ## Technical Constraints
